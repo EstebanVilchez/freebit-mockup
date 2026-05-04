@@ -95,5 +95,3 @@ El repositorio incluye:
 Este mockup es el primer paso. El objetivo es conseguir un primer socio (banco o retailer costarricense) y capital semilla para desarrollar el MVP funcional.
  
 ---
- 
-*Desarrollado por Esteban Vílchez — [estebanvilchez.com](https://www.estebanvilchez.com)*
