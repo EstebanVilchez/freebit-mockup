@@ -67,7 +67,7 @@ export function Header({ user }: HeaderProps) {
               <Coins className="w-5 h-5 text-[#FFD700]" />
             </motion.div>
             <span className="text-[#FFD700] font-[var(--font-press-start)] text-xs">
-              {user.koins.toLocaleString()}
+              {user.koins.toLocaleString('en-US')}
             </span>
           </motion.div>
         </div>
